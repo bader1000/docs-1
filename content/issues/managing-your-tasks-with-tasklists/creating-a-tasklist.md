@@ -1,4 +1,5 @@
 ---
+king import export
 title: 'Creating a tasklist'
 intro: 'You can create a tasklist using the {% data variables.product.product_name %} UI or Markdown.'
 allowTitleToDifferFromFilename: true
